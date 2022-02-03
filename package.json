@@ -1,0 +1,15 @@
+{
+  "name": "sample-app-electron",
+  "version": "1.0.0",
+  "description": "A sample app using Electronjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilham",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
